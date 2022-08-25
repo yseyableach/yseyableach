@@ -1,4 +1,5 @@
 ### 😄 Hi I am Jay 👋~
+
 <p align="left">
 Hi, This is Jay. A Passionate AI system developer. I have 4 years of software development experience by 
 using python and 3 years of ML models building experience. I have passion for using ml technique or reading new 
@@ -13,7 +14,8 @@ and AI help enterprises digitally transforming is my strength</p>
 <br>
 📫 How to reach me: yseyableach@gmail.com
 <br>
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jay-yu-897215214/))
+:link: <a href = 'https://www.linkedin.com/in/jay-yu-897215214' >My Linkedin</a>
+
 
 <br><br>
 ### :thumbsup: Familiar Tools and Package (AI , Backend Framework , Database)
@@ -26,3 +28,5 @@ and AI help enterprises digitally transforming is my strength</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yseyableach&show_icons=true&locale=en" alt="yseyableach" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yseyableach&show_icons=true&locale=en&layout=compact" alt="yseyableach" /></p>
+
+
