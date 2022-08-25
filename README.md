@@ -12,7 +12,7 @@ and AI help enterprises digitally transforming is my strength</p>
 <br>
 💻 Familiar language : Python , SQL , typescript , php
 <br>
-📫 How to reach me: yseyableach@gmail.com
+📫 E-Mail: yseyableach@gmail.com
 <br>
 :link: <a href = 'https://www.linkedin.com/in/jay-yu-897215214' >My Linkedin</a>
 
