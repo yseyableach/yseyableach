@@ -10,7 +10,10 @@ and AI help enterprises digitally transforming is my strength</p>
 💻 Familiar technique : NLP ,classification problem, recommendation system , supervised learning ,deep learning
 <br>
 💻 Familiar language : Python , SQL , typescript , php
+<br>
 📫 How to reach me: yseyableach@gmail.com
+<br>
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/jay-yu-897215214/))
 
 <br><br>
 ### :thumbsup: Familiar Tools and Package (AI , Backend Framework , Database)
