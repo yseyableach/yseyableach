@@ -27,6 +27,8 @@ and AI help enterprises digitally transforming is my strength</p>
 
 <i class="fa-brands fa-docker"></i>
 
+<i style='font-size:24px' class='fab'>&#xf395;</i>
+
 ### My github infomation
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yseyableach&show_icons=true&locale=en" alt="yseyableach" />
