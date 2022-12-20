@@ -25,7 +25,6 @@ and AI help enterprises digitally transforming is my strength</p>
 
 <br>
 
-<i class="fa-brands fa-docker"></i>
 
 <i style='font-size:24px' class='fab'>&#xf395;</i>
 
