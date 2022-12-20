@@ -8,9 +8,14 @@ exam on 2021/11. Because of my intern experience in cloud service company, I hel
 SageMaker, Personalize. I also have experience in player behavior analysis, I built a new player churn prediction and visualized the result on Tableau
 at a mobile game company. During my internship at ECV, I learned a lot of AWS basic service. Use cloud service 
 and AI help enterprises digitally transforming is my strength</p>
-💻 Familiar technique : NLP ,classification problem, recommendation system , supervised learning ,deep learning
+💻 SWE technique : Backend service,Restful API, Unit test , code format , Schema Migration and design ,Docker ,Docker-compose , Postman 
 <br>
-💻 Familiar language : Python , SQL , typescript , php
+💻 Cloud technique : AWS(s3 ,ec2 , rds, sagemaker, labmda ,personalize) , Azure(blob , graph api, databricks)
+<br>
+
+💻 ML technique : NLP ,classification problem, recommendation system , supervised learning ,deep learning
+<br>
+💻 Familiar language : Python ,Javascript , SQL , typescript , php
 <br>
 📫 E-Mail: yseyableach@gmail.com
 <br>
